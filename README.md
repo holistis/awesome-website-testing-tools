@@ -25,6 +25,9 @@ Markup Validation
 Auditing, performance metrics, and best practices for Progressive Web Apps (Chrome Devtools and Chrome extension)
 - https://github.com/GoogleChrome/lighthouse
 
+One-off real-browser check of a single URL: HTTP status, load time, console errors and exceptions. No signup, pay 0.02 USDC per check via the x402 protocol.
+- https://tokenizen.nl/tools
+
 <sub>[⇧ back to top](#contents)</sub>
 
 ## 📐 Design & Layout
